@@ -1,7 +1,7 @@
 local a a={cache={}, load=function(b)if not a.cache[b]then a.cache[b]={c=a[b]()}end return a.cache[b].c end}do function a.a()return{
 
 
-Primary=Color3.fromHex"#0091FF",
+Primary=Color3.fromHex"#0091FE",
 
 White=Color3.new(1,1,1),
 Black=Color3.new(0,0,0),
