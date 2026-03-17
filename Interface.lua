@@ -12108,7 +12108,7 @@ au:SetToTheCenter()
 au:Dialog{
 
 Title="Close Window",
-Content="Apakah Anda ingin menutup panel ini? Anda dapat membukanya kembali dengan menjalankan script lagi.",
+Content="Apakah Anda yakin ingin menutup panel ini? Anda dapat membukanya kembali dengan menjalankan script lagi.",
 Buttons={
 {
 Title="Cancel",
